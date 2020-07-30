@@ -10,3 +10,7 @@ const fun = () => {
 const jump = () => {
     console.log("jump")
 }
+
+const eat = () => {
+
+}
