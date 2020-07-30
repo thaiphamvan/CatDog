@@ -6,3 +6,7 @@ const run = () => {
 const jump = () => {
     console.log("jump")
 }
+
+const eat = () => {
+
+}
