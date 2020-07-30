@@ -1,6 +1,6 @@
 
 const run = () => {
-
+console.log("run")
 }
 
 const jump = () => {
